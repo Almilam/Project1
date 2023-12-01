@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Chonburi&family=Encode+Sans:wght@600;800&display=swap');
+
+/* ---- Main Page Styling ------------------------------------------ */
+
+body {
+
+    background-color: aliceblue;
+
+}
+
+main {
+}
+
+
+ul {
+    list-style: none;
+    align-items: center;
+    display: inline-flex;
+    position: relative;
+
+}
+
+li {
+
+    padding-left: 1rem;  
+     padding-right: 1rem;
+}
+
+
+
+img {
+    background-repeat: no-repeat;
+}
+
+
+
+/* ---- Header and Nav Bar Styling ------------------------------------------ */
+header {
+    background-color: rgb(170, 109, 226);
+}
+
+nav {
+    text-align: right;
+}
+
+
+
+
+
+
+
+/* ---- Footer and Social Media Styling ------------------------------------------ */
+footer {
+         background-color: rgb(168, 155, 180);
+        font-size: larger;
+        text-align: center;
+        margin-bottom: 0;
+}
+
+#social {
+    color: rgb(255, 152, 241);
+    margin: 4px 4px;
+    font-size: x-large;
+}
+
+.social-media {
+
+    padding-left: 0.5rem;  
+    padding-right: 0.5rem;
+}
+
