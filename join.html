@@ -1,100 +1,125 @@
 <!DOCTYPE html>
 
 <html>
-
-<head>
+  <head>
     <title>Full Stack Software Developer Merchandise</title>
-    <link rel="stylesheet" href="assets/css/style.css" >
+    <link rel="stylesheet" href="assets/css/style.css" />
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1."/>
-    <meta name="description" content="Products for web developers, branded gifts and merchandise/">
-    <meta name="keywords" content="Fullstack, web, developer, tech, merchandise"/>
-</head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1." />
+    <meta
+      name="description"
+      content="Products for web developers, branded gifts and merchandise/"
+    />
+    <meta
+      name="keywords"
+      content="Fullstack, web, developer, tech, merchandise"
+    />
+  </head>
 
+  <body>
+    <!-- This is the header section -->
 
-<body>
+    <header>
+      <h1>Full Stack Software Developer Merchandise</h1>
 
-
-<!-- This is the header section -->
-
-<header>
-    <h1>Full Stack Software Developer Merchandise</h1>
-
-    <nav>
-
+      <nav>
         <ul id="menu">
-            <li><a href="index.html" >HOME</a></li>
-            <li><a href="products.html">PRODUCTS</a></li>
-            <li><a href="join.html">JOIN</a></li>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="products.html">PRODUCTS</a></li>
+          <li><a href="join.html">JOIN</a></li>
         </ul>
+      </nav>
+    </header>
 
-    </nav>
+    <!-- This is the main section -->
 
-</header>
+    <main>
+      <h1 id="form">Sign up for newsletters and exclusive offers!</h1>
 
+      <form
+        id="form-join"
+        method="POST"
+        action="https://www.redbubble.com/signup"
+      >
+        <label for="first_name">First Name</label>
+        <input
+          type="text"
+          name="first_name"
+          id="first_name"
+          class="text-input"
+          required
+        />
+        <br />
+        <label for="last_name">Last Name</label>
+        <input
+          type="text"
+          name="last_name"
+          id="last_name"
+          class="text-input"
+          required
+        />
+        <br />
+        <label for="email_address">Email Address</label>
+        <input
+          type="email"
+          name="email_address"
+          id="email_address"
+          class="text-input"
+          required
+        />
+        <br />
 
-<!-- This is the main section -->
+        <button type="submit" class="signup-button">Hit to sign up!</button>
+      </form>
+    </main>
 
-<main>
-   
-<h1 id="form"> Sign up for newsletters and exclusive offers!</h1>
-
-<form id="form-join" method="POST" action="https://www.redbubble.com/signup">
-
-    <label for="first_name">First Name</label>
-<input type="text" name="first_name" id="first_name" class="text-input" required>
-<br>
-<label for="last_name">Last Name</label>
-<input type="text" name="last_name" id="last_name" class="text-input" required>
-<br>
-<label for="email_address">Email Address</label>
-<input type="email" name="email_address" id="email_address" class="text-input" required>
-<br>
-
-
-<button type="submit" class="signup-button"> Hit to sign up! </button>
-</form>
-
-
-</main>
-
-
-
-
-
-<!-- This is the footer section -->
-<footer>
-
-    <div>
-
-        
-        <ul id="social-media"> 
-
-        <li >
+    <!-- This is the footer section -->
+    <footer>
+      <div>
+        <ul id="social-media">
+          <li>
             <a href="contact.html" target="_blank" rel="noopener" aria-label="">
-                <i class="fa-solid fa-laptop-code" id="contact"></i></a>
-            </li>
-            <li>
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="We are on Facebook">
-                <i class="fa-brands fa-facebook" id="social"></i></a>
-            </li>
-            <li>
-                <a href="https://www.pinterest.com/" target="_blank" rel="noopener" aria-label="We are on Pinterest">
-                    <i class="fa-brands fa-pinterest-p" id="social"></i></a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="We are om Instagram">
-                    <i class="fa-brands fa-instagram" id="social"></i></a>
-                </li>
+              <i class="fa-solid fa-laptop-code" id="contact"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.facebook.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="We are on Facebook"
+            >
+              <i class="fa-brands fa-facebook" id="social"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.pinterest.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="We are on Pinterest"
+            >
+              <i class="fa-brands fa-pinterest-p" id="social"></i
+            ></a>
+          </li>
+          <li>
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="We are om Instagram"
+            >
+              <i class="fa-brands fa-instagram" id="social"></i
+            ></a>
+          </li>
         </ul>
-    </div>
+      </div>
+    </footer>
 
-</footer>
-
-<script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
-
-
-</body>
-
+    <script
+      src="https://kit.fontawesome.com/3b20d96fa9.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
