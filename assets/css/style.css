@@ -2,11 +2,14 @@
 
 /* ---- Main Page Styling ------------------------------------------ */
 
-body {
-  background-color: aliceblue;
+* {
+    padding: 0;
+    margin: 0;
+    color: #205690;
 }
 
-main {
+body {
+  background-color: #205690;
 }
 
 ul {
@@ -27,16 +30,29 @@ img {
 
 /* ---- Header and Nav Bar Styling ------------------------------------------ */
 header {
-  background-color: rgb(170, 109, 226);
+  background-color: #003153;
+  width: 100%;
+}
+
+header>h1 {
+    color: #388BAE;
+
 }
 
 nav {
   text-align: right;
 }
 
+.instruction {
+    color: #ffb3ff80;
+    text-align: right;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+
 /* ---- Footer and Social Media Styling ------------------------------------------ */
 footer {
-  background-color: rgb(168, 155, 180);
+  background-color: #14E4E1;
   font-size: larger;
   text-align: center;
   bottom: 0;
@@ -46,7 +62,7 @@ footer {
 
 
 #social {
-  color: rgb(255, 152, 241);
+  color: #DA68D0;
   margin: 4px 4px;
   font-size: x-large;
 }
