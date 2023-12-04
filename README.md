@@ -8,8 +8,7 @@ The idea of this particular product came to mind because of a need for a new not
 
 The project solved a problem and the designed notebook was purchased, and designs were applied to other products hoodies, mugs and stickers. 
 
-
-
+![Home page](Home page.jpeg)
 
 
 
