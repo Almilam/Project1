@@ -8,16 +8,13 @@ The idea of this particular product came to mind because of a need for a new not
 
 The project solved a problem and the designed notebook was purchased, and designs were applied to other products hoodies, mugs and stickers. 
 
-![Home page](images readme/Home page.jpeg)
-
-
-
-
 Features 
 
 Navigation 
 
 Home page
+
+<img src="images readme/Home page.jpeg" width=500>
 
 At the top left of the page is the website name. 
 
@@ -27,11 +24,15 @@ The main section displays the image to show what the site is for.
 
 Products page
 
+<img src="images readme/Product page.jpeg" width=500>
+
 There are product images and the instruction message on how to access the product. 
 
 Each image links to the actual store to view and purchase. 
 
 Join page 
+
+<img src="images readme/Join page.jpeg" width=500>
 
 Invites users to sign up for newsletters and exclusive offers by filling out the simple form. 
 
@@ -39,7 +40,11 @@ The form is functioning and links to the redbubble website's sign-up page.
 
 Footer 
 
+<img src="images readme/Footer.jpeg" width=500>
+
 Includes the section with social media links and the Contact form for the user to get in touch. 
+
+<img src="images readme/Contact page.jpeg" width=500>
 
 Testing 
 
@@ -80,6 +85,8 @@ Content
 Code for social media links and the basic structure were learned from Love Running Project within the course. 
 
 Tutor Komal Karir provided real in-class and online support with regular code reviews. 
+
+How to embed images in GitHub Readme File. The WP GURU (on YouTube). 
 
 W3Schools Online web tutorials (additional resource). 
 
