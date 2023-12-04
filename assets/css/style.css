@@ -43,16 +43,16 @@ nav {
   text-align: right;
 }
 
-.instruction {
+.click {
     color: #DA68D0;
-    text-align: right;
-    margin-right: 10%;
-    margin-top: 10%;
+    margin-left: 60%;
+    margin-top: 1%;
     font-family: Encode Sans;
     font-style:inherit;
     font-weight: 100;
     font-size: 25px;
 }
+
 
 /* ---- Footer and Social Media Styling ------------------------------------------ */
 footer {
