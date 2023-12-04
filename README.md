@@ -6,7 +6,7 @@ Users of the website will be able to access direct links to the actual online st
 
 The idea of this particular product came to mind because of a need for a new notebook, as one provided by Code Institute for this boot camp started to run out due to many notes taken in the class. Then the author created the original logo and design for the Full Stack Developer Notebook (appears on the first page of the website) the design was implemented using the PhotoScape X version and then the design was uploaded to redbubble.com (print on demand website for independent artists). 
 
-The project solved a problem and the designed notebook was purchased, and designs were applied to other products hoodies, mugs and stickers. 
+The project solved a problem and the designed notebook was purchased, and designs were applied to other products, such as hoodies, mugs and stickers. 
 
 Features 
 
@@ -26,7 +26,7 @@ Products page
 
 <img src="images readme/Product page.jpeg" width=500>
 
-There are product images and the instruction message on how to access the product. 
+There are product images and an instruction message on how to access the product. 
 
 Each image links to the actual store to view and purchase. 
 
@@ -55,10 +55,12 @@ The text on the website is readable and the forms and links are working.
 Bugs 
 
 Fixed
+
 A footer was moving to the middle of the Contact and Join pages, which was fixed in media queries. 
 
 Unfixed
-Different media queries were applied this did not solve the issues of the website elements shift on some devices. 
+
+Different media queries were applied, but this did not solve the issues of the website elements shift on some devices. 
 
 Improvements the author will need to master media queries. 
 
@@ -82,6 +84,7 @@ The website deployed to Github pages.
 Credits
 
 Content 
+
 Code for social media links and the basic structure were learned from Love Running Project within the course. 
 
 Tutor Komal Karir provided real in-class and online support with regular code reviews. 
@@ -91,5 +94,6 @@ How to embed images in GitHub Readme File. The WP GURU (on YouTube).
 W3Schools Online web tutorials (additional resource). 
 
 Media 
+
 The design of products is original by the author and  uploaded on redbubble.com 
 
