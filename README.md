@@ -2,9 +2,9 @@ Full Stack Developer Merchandise
 
 Full Stack Developer Merchandise website offers branded products with original designs for Full Stack Developers. Products include mugs, t-shirts, magnets, stickers, and hoodies. 
 
-Users of the website will be able to access direct links to the actual online store https://www.redbubble.com/people/camidigital/shop on redbubble.com created by the author (me) and to view and purchase products in my (camidigital) redbubble.com shop (the are other products in the shop, this Project 1 and products on this website created for Full Stack Developer Merchandise only). 
+Users of the website will be able to access direct links to the actual online store https://www.redbubble.com/people/camidigital/shop on redbubble.com created by the author (me) and to view and purchase products in my (camidigital) redbubble.com shop (there are other products in the shop, this Project 1 and products on this website created for Full Stack Developer Merchandise only). 
 
-The idea of this particular product came to mind because of a need for a new notebook, as one provided by Code Institute for this boot camp started to run out due to many notes taken in the class. Then the author created the original logo and design for the Full Stack Developer Notebook (appears on the first page of the website) the design was implemented using the PhotoScape X version and then the design was uploaded to redbubble.com (print on demand website for independent artists). 
+The idea of this particular product came to mind because of a need for a new notebook, as one provided by Code Institute for this boot camp started to run out due to many notes taken in the class. Then the author created the original logo and design for the Full Stack Developer Notebook (appears on the first page of the website) the design was implemented using the PhotoScape X version and then the design was uploaded to redbubble.com (print-on-demand website for independent artists). 
 
 The project solved a problem and the designed notebook was purchased, and designs were applied to other products, such as hoodies, mugs and stickers. 
 
@@ -62,7 +62,9 @@ Unfixed
 
 Different media queries were applied, but this did not solve the issues of the website elements shift on some devices. 
 
-Improvements the author will need to master media queries. 
+Improvements
+
+The author will need to master media queries. 
 
 Validator Testing
 
@@ -71,7 +73,7 @@ HTML
 CSS
 
 Code was formatted with Prettier code formatter, and W3C validator  
-and Jigsaw did not suggest using spacing on a few lines where spaces appeared due to code formatter used. Validators spotted missing units for px in CSS in 2 cases that were fixed. 
+and Jigsaw did not suggest using spacing on a few lines where spaces appeared due to code formatter used. Validators spotted missing units for px in CSS in 2 cases that was fixed. 
 
 Accessibility 
 
