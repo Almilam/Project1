@@ -5,7 +5,7 @@
 * {
     padding: 0;
     margin: 0;
-    color: #205690;
+    color: #BEDEF5;
 }
 
 body {
@@ -30,12 +30,12 @@ img {
 
 /* ---- Header and Nav Bar Styling ------------------------------------------ */
 header {
-  background-color: #003153;
+  background-color: #2B77BA;
   width: 100%;
 }
 
 header>h1 {
-    color: #388BAE;
+    color: #BEDEF5;
 
 }
 
@@ -44,15 +44,19 @@ nav {
 }
 
 .instruction {
-    color: #ffb3ff80;
+    color: #DA68D0;
     text-align: right;
-    margin-right: 20%;
+    margin-right: 10%;
     margin-top: 10%;
+    font-family: Encode Sans;
+    font-style:inherit;
+    font-weight: 100;
+    font-size: 25px;
 }
 
 /* ---- Footer and Social Media Styling ------------------------------------------ */
 footer {
-  background-color: #14E4E1;
+  background-color: #2B77BA;
   font-size: larger;
   text-align: center;
   bottom: 0;
@@ -67,41 +71,61 @@ footer {
   font-size: x-large;
 }
 
+
+#contact {
+    color: #7BE668;
+
+}
+
 .social-media {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+
 /* Forms styling */
 
 main > h1 {
   color: #0c3e71;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+.sign {
+    margin-top: 5%;
+    margin-left: 3%;
 }
 
 form {
   color: rgb(40, 85, 131);
-  background-color: #c3d9f1;
+  background-color: transparent;
   padding: 30px;
   margin-bottom: 100%;
+  width: 50%;
+  border-radius: 25px;
+}
+
+label {
+    color: #BEDEF5;
+    padding: 2px;
 }
 
 .text-input {
   background: #83b4e6;
-  color: #315e7f;
+  color: #0B4685;
   width: 100%;
   height: 35px;
   margin: 7px 1 19px 1;
   border: #315e7f;
-  border-radius: 25px;
+  border-radius: 15px;
   padding: 1 6px;
+  font-size: 17px;
 }
 
 .signup-button {
   margin-top: 30px;
-  border-radius: 25px;
-  font-size: 100%;
+  border-radius: 20px;
+  font-size: 19px;
   background-color: #5899c8;
-  color: #0b4b95;
+  color: #BEDEF5;
 }
 
 /* Media query: small screens and mobile phones (280 px and up) */
