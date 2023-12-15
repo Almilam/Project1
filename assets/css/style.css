@@ -35,6 +35,13 @@ li {
   padding: 0 5%;
 }
 
+#hero-img {
+  z-index: 99;
+  height: 75%;
+  width: 75%;
+  padding-left: 10%;
+  }
+
 img {
   background-repeat: no-repeat;
   object-fit: cover;
